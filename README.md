@@ -59,7 +59,7 @@ Outils
 ### 🔗 Liens	
 
 Visitez mon [linkedin](https://www.linkedin.com/in/c%C3%A9dric-bodereau-6433aa2a3/) !   
-Pour une visite de mon portfolio, cliquez [ici](https://portfolio-dricks.vercel.app/) !  
+Pour une visite de mon [portfolio](https://portfolio-dricks.vercel.app/) !  
 Mon premier [site](https://a-f.vercel.app/) !
 <br>
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> bodereau.cs@gmail.com
